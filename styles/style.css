@@ -12,7 +12,7 @@ body {
     font-style: normal;
 }
 
-/* Heder section css start */
+/* Header section css start */
 
 #header {
     margin-top: 50px;
@@ -139,4 +139,107 @@ body {
     font-weight: 600;
     line-height: normal;
     border: none;
+}
+
+/* Header section css end */
+
+/* main section css start */
+
+#main {
+    width: 1003.2px;
+    /* border: 2px solid black; */
+    margin: 75px auto;
+}
+
+#section-1 {
+    width: 832.48px;
+    height: 1225.84px;
+    margin: 75px auto;
+    /* border: 2px solid tomato; */
+    margin: 80px auto;
+}
+
+
+#main #section-1 .section-1-title {
+    /* border: 2px solid black; */
+}
+
+#main #section-1 .section-1-title .title-1 {
+    align-self: stretch;
+    color: #0D1321;
+    text-align: center;
+    font-family: "Azeret Mono";
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+#main #section-1 .section-1-title .description {
+    align-self: stretch;
+    color: #0D1321;
+    text-align: center;
+    font-family: "Azeret Mono";
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    opacity: 0.6;
+    margin-top: 22px;
+}
+
+
+#sub-section-2 {
+    width: 748px;
+    height: 211.2px;
+    /* border: 2px solid black; */
+    margin: 150px auto;
+}
+
+#sub-section-2 .section-2-parent {
+    display: flex;
+    justify-content: space-between;
+}
+
+#sub-section-2 .section-2-parent .section-2-child {
+    width: 419.76px;
+}
+
+#sub-section-2 .section-2-parent .section-2-child .section-2-title {
+    width: 343.2px;
+    color: rgba(13, 19, 33, 0.70);
+    font-family: "Azeret Mono";
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 32px;
+    margin-top: 10px;
+}
+
+#sub-section-2 .section-2-parent .section-2-child .section-2-subtitle {
+    width: 411.84px;
+    color: #0D1321;
+    font-family: "Azeret Mono";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 22px;
+    opacity: 0.7;
+    margin-top: 16px;
+}
+
+.section-2-btn button {
+    width: 131px;
+    padding: 10px 15px;
+    gap: 10px;
+    /* border: 1px solid #0D1321; */
+    opacity: 0.7;
+    background: none;
+    margin-top: 36.50px;
+    cursor: pointer;
+}
+
+.img-2 {
+    width: 228.8px;
+    height: 211.2px;
 }
