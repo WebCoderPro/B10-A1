@@ -126,8 +126,6 @@ body {
 #banner .banner-all-contant .hero-btn-container .hero-btn {
     display: flex;
     padding: 12px 16px;
-    /* justify-content: center;
-    align-items: center; */
     font-family: "Azeret Mono";
     gap: 10px;
     border-radius: 6px;
@@ -232,7 +230,7 @@ body {
     width: 131px;
     padding: 10px 15px;
     gap: 10px;
-    /* border: 1px solid #0D1321; */
+    border: 1px solid #0D1321;
     opacity: 0.7;
     background: none;
     margin-top: 36.50px;
@@ -242,4 +240,427 @@ body {
 .img-2 {
     width: 228.8px;
     height: 211.2px;
+}
+
+
+/* My inspiration section css */
+
+#section-3 {
+    /* border: 2px solid tomato; */
+    margin-top: 90px;
+    height: 682px;
+
+}
+
+
+#section-3 .section-3-title {
+    /* border: 2px solid black; */
+    width: 749.76px;
+    margin: 0 auto;
+}
+
+#section-3 .section-3-title .section-3-h4 {
+    align-self: stretch;
+    color: #0D1321;
+    text-align: center;
+    font-family: "Azeret Mono";
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+#section-3 .section-3-title .section-3-p {
+    margin-top: 24px;
+    align-self: stretch;
+    color: #0D1321;
+    text-align: center;
+    font-family: "Azeret Mono";
+    font-size: 13.50px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 22px;
+    opacity: 0.6;
+}
+
+#section-3 .video {
+    width: 946.88px;
+    height: 484px;
+    margin: 0 auto;
+    margin-top: 48px;
+    padding: 20px;
+    gap: 10px;
+    align-self: stretch;
+    border-radius: 16px;
+    border: 1px solid rgba(13, 19, 33, 0.20);
+
+}
+
+#section-3 .video iframe {
+    width: 910px;
+    height: 440px;
+    border-radius: 16px;
+    display: flex;
+    align-items: center;
+}
+
+/* My inspiration section css end */
+
+
+/* My current target css */
+
+#section-4 {
+    /* border: 2px solid tomato; */
+    margin-top: 150px;
+    height: 404.8px;
+}
+
+#section-4 .section-4-title {
+    width: 749.76px;
+    /* border: 2px solid orangered; */
+    margin: 0 auto;
+}
+
+.display {
+    display: flex;
+    justify-content: space-between;
+}
+
+#section-4 .section-4-title .section-4-h4 {
+    align-self: stretch;
+    color: #0D1321;
+    text-align: center;
+    font-family: "Azeret Mono";
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+#section-4 .section-4-title .section-4-p {
+    align-self: stretch;
+    color: #0D1321;
+    text-align: center;
+    font-family: "Azeret Mono";
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+    opacity: 0.7;
+    margin-top: 24px;
+}
+
+#section-4 .section-4-parent {
+    margin-top: 27px;
+}
+
+#section-4 .section-4-parent .section-4-child {
+    width: 320.32px;
+    height: 263.12px;
+
+    border-radius: 16px;
+
+}
+
+#color-1 {
+    background: rgba(255, 76, 30, 0.05);
+}
+
+#color-2 {
+    background: rgba(0, 76, 232, 0.05);
+}
+
+#color-3 {
+    background: rgba(255, 223, 0, 0.05);
+
+}
+
+
+#section-4 .section-4-parent .section-4-child .section-4-contant {
+    width: 249.92px;
+    margin: 0 auto;
+    padding: 30px 10px
+}
+
+#section-4 .section-4-parent .section-4-child .section-4-contant .section-4-img {
+    margin-bottom: 20px;
+}
+
+#section-4 .section-4-parent .section-4-child .section-4-contant .section-4-img img {
+    width: 49.28px;
+    height: 49.28px;
+}
+
+.section-4-container h4 {
+    align-self: stretch;
+    color: #0D1321;
+    font-family: "Azeret Mono";
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 36px;
+    margin-bottom: 8px;
+}
+
+.section-4-container p {
+    align-self: stretch;
+    color: #0D1321;
+    font-family: "Azeret Mono";
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+    margin-bottom: 20px;
+}
+
+.section-4-container a {
+    align-self: stretch;
+    color: #0D1321;
+    font-family: "Azeret Mono";
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-decoration-line: underline;
+}
+
+/* My current target css end */
+
+/* My next target css */
+
+#section-5 {
+    /* border: 2px solid tomato; */
+    margin-top: 112px;
+    height: 762.08px;
+}
+
+#section-5 .section-5-title {
+    width: 749.76px;
+    /* border: 2px solid orangered; */
+    margin: 0 auto;
+}
+
+#section-5 .section-5-title .section-5-h4 {
+    align-self: stretch;
+    color: #0D1321;
+    text-align: center;
+    font-family: "Azeret Mono";
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+#section-5 .section-5-title .section-5-p {
+    align-self: stretch;
+    color: #0D1321;
+    text-align: center;
+    font-family: "Azeret Mono";
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+    opacity: 0.7;
+    margin-top: 24px;
+}
+
+
+.technology {
+    display: flex;
+    flex-direction: column;
+    height: 192.72px;
+    justify-content: space-between;
+
+}
+
+#top-1 {
+    margin-top: 45px;
+}
+
+#top-2 {
+    margin-top: 33px;
+}
+
+.technology .three-technology {
+    border-radius: 16px;
+    border: 1px solid rgba(13, 19, 33, 0.15);
+    background: #FFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px 20px;
+}
+
+.technology-img img {
+    width: 90px;
+    height: 85px;
+}
+
+.technology-title {
+    width: 828.08px;
+    /* border: 2px solid orangered; */
+    margin: 0 auto;
+}
+
+.technology-title h4 {
+    color: #0D1321;
+    font-family: "Azeret Mono";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 26px;
+    margin-bottom: 8px;
+}
+
+.technology-title p {
+    align-self: stretch;
+    color: #0D1321;
+    font-family: "Azeret Mono";
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 18px;
+    margin-bottom: 24px;
+}
+
+.technology-title a {
+    align-self: stretch;
+    color: #0D1321;
+    font-family: "Azeret Mono";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-decoration-line: underline;
+}
+
+/* My next target css end */
+
+#section-6 {
+    height: 275.44px;
+    margin-top: 49px;
+    background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.20) 0%, rgba(0, 0, 0, 0.20) 100%), linear-gradient(0deg, rgba(0, 0, 0, 0.20) 0%, rgba(0, 0, 0, 0.20) 100%), linear-gradient(0deg, rgba(0, 0, 0, 0.20) 0%, rgba(0, 0, 0, 0.20) 100%), url(../assets/handshake.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    padding: 60px 48px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 32px;
+    border-radius: 16px;
+}
+
+#section-6 .i-need {
+    /* border: 2px solid teal; */
+    margin: 0 auto;
+}
+
+#section-6 .i-need h4 {
+    color: #FFF;
+    text-align: center;
+    font-family: "Azeret Mono";
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 36px;
+    margin: 0 auto;
+
+    /* border: 2px solid tomato; */
+}
+
+#section-6 .i-need p {
+    width: 533.28px;
+    color: #FFF;
+    text-align: center;
+    font-family: "Azeret Mono";
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 23px;
+    opacity: 0.6;
+    margin-top: 16px;
+}
+
+#section-6 .i-need .input-btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 16px;
+    /* border: 2px solid green; */
+    margin-top: 16px;
+}
+
+.input-btn .section-6-input .input {
+    display: flex;
+    width: 482.24px;
+    padding: 14px 15px;
+    align-items: center;
+    gap: 10px;
+    border-radius: 8px;
+    border: 1px solid rgba(13, 19, 33, 0.15);
+    background: #FFF;
+
+    color: rgba(13, 19, 33, 0.40);
+    font-family: "Azeret Mono";
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.input-btn .section-6-btn .sub-btn {
+    display: flex;
+    width: 120px;
+    padding: 14px 15px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 8px;
+    background: #FFF;
+
+    flex: 1 0 0;
+    color: #0D1321;
+    font-family: "Azeret Mono";
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    width: 105.6px;
+}
+
+/* footer section css */
+
+#footer {
+    height: 88px;
+    /* border: 2px solid orangered; */
+    padding: 20px 32px;
+    border-radius: 16px;
+    background: rgba(13, 19, 33, 0.03);
+}
+
+#footer .footer-div {
+    width: 1003.2px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    justify-content: space-between;
+    align-self: stretch;
+
+    /* border: 2px solid yellow; */
+}
+
+.footer-div .footer-contant p {
+    color: #0D1321;
+    text-align: center;
+    font-family: "Azeret Mono";
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.footer-a a {
+    text-decoration: none;
 }
