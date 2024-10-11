@@ -123,6 +123,10 @@ body {
     margin-bottom: 43px;
 }
 
+#banner .banner-all-contant .hero-btn-container nav a{
+    text-decoration: none;
+}
+
 #banner .banner-all-contant .hero-btn-container .hero-btn {
     display: flex;
     padding: 12px 16px;
@@ -137,6 +141,7 @@ body {
     font-weight: 600;
     line-height: normal;
     border: none;
+    cursor: pointer;
 }
 
 /* Header section css end */
